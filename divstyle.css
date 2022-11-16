@@ -1,0 +1,64 @@
+
+<style>
+
+
+	h2{
+			color:#7B3F00;
+			text-align: center;
+			font-size:35px;
+	}
+
+	h3{
+			font-size:21px;
+			
+	}
+
+	a{
+			background-color:#1434A4;
+			color:white;
+			padding:5px 55px;			
+		}
+
+	p {
+  		font-size: 20px; 
+		color:black;
+	}
+
+	mark {
+  		background-color: white;
+  		color: black;
+	}
+
+	div {
+		border: 8px inset #DEA96B;
+		background-color: #8EB1D9;    
+		text-align: center;
+		width: 900px;
+		margin: auto;
+	}
+
+	a:link {
+		color: #657441;
+		background-color: transparent;
+		text-decoration: none;
+}
+
+	a:visited {
+		color: #486544;
+		background-color: transparent;
+		text-decoration: none;
+}
+
+	a:hover {
+		color: #586C28;
+		background-color: transparent;
+		text-decoration: underline;
+}
+
+	a:active {
+		color: #90A952;
+		background-color: transparent;
+		text-decoration: underline;
+}
+
+</style>
